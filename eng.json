@@ -689,8 +689,8 @@
   "error_bank_account_null": "User hasn't deposited to the guild bank yet!",
   "error_pasta_null": "Pasta was not found.",
   "appreciate_title": "Appreciate Miki?",
-  "appreciate_patreon": "Vote for us every day on {0} to get an additional bonus!",
-  "appreciate_vote": "Donate to us on {0} for more mekos!",
+  "appreciate_patreon": "Donate to us on {0} for more mekos!",
+  "appreciate_vote": "Vote for us every day on {0} to get an additional bonus!",
   "daily_claimed": "You already claimed your daily today! Please wait another {0} before using it again.",
   "daily_streak": "You're on a {0} day daily streak!",
   "daily_streak_title": "Streak!",
@@ -772,5 +772,6 @@
   "achievement_lewd_0": "Lewd",
   "marriage_proposal_declined": "You shot down {0}!",
   "marriage_proposal_declined_text": "Aww, don't worry {0}. There is plenty of fish in the sea!",
-  "tip_header": "Pro tip!"
+  "tip_header": "Pro tip!",
+  "entity_marriage": "marriage" 
 }
