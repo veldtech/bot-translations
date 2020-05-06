@@ -773,5 +773,7 @@
   "marriage_proposal_declined": "You shot down {0}!",
   "marriage_proposal_declined_text": "Aww, don't worry {0}. There is plenty of fish in the sea!",
   "tip_header": "Pro tip!",
-  "entity_marriage": "marriage" 
+  "entity_marriage": "marriage",
+  "marriageslot_donator_bonus": "Donators get 5 more marriage slots!",
+  "marriageslot_footer": "Click here to donate" 
 }
