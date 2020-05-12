@@ -775,5 +775,6 @@
   "tip_header": "Pro tip!",
   "entity_marriage": "marriage",
   "marriageslot_donator_bonus": "Donators get 5 more marriage slots!",
-  "marriageslot_footer": "Click here to donate" 
+  "marriageslot_footer": "Click here to donate",
+  "error_bet_limit_overflow":  "You cannot bet more than {0} mekos" 
 }
