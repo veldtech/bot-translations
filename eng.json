@@ -776,5 +776,10 @@
   "entity_marriage": "marriage",
   "marriageslot_donator_bonus": "Donators get 5 more marriage slots!",
   "marriageslot_footer": "Click here to donate",
-  "error_bet_limit_overflow":  "You cannot bet more than {0} mekos" 
+  "error_bet_limit_overflow": "You cannot bet more than {0} mekos",
+  "noun_weapon": "weapon",
+  "game_result_draw": "It's a draw! no mekos were lost.",
+  "game_result_lose": "You've lost {0} mekos!",
+  "game_result_win": "You've won {0} mekos!",
+  "currency_update_balance": "Your new balance is {0}."
 }
