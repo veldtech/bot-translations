@@ -727,5 +727,13 @@
     "miki_command_description_reddit": "",
     "miki_command_usage_reddit": "",
     "noun_subreddit": "subreddit",
-    "action_view_reddit": ""
+    "action_view_reddit": "",
+    "guildweekly_guildinsufficientexp_content": "{0} a besoin de plus d’expérience que son rival pour débloquer la récompense hebdomadaire de la guilde.",
+    "guildweekly_guildinsufficientexp_title": "Ton rival est meilleur que toi!",
+    "guildweekly_success_content": "Tu as effectivement reçu **{0}** Mekos de {1}. Reviens dans une semaine pour en avoir plus!",
+    "guildweekly_success_title": "Succès!",
+    "guildweekly_title": "Hebdomadaire de Guilde",
+    "miki_module_general_help_module_example": "Utilisez {0}help actions pour voir toutes les fonctions d'actions que tu peux utiliser",
+    "miki_module_general_help_tagline": "Modules actuels de Miki",
+    "miki_module_general_help_header": "Aide"
 }
