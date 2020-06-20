@@ -195,7 +195,7 @@
     "miki_command_description_toggledm": "Toggle Miki's ability to send you DMs!",
     "miki_command_description_toggleerrors": "Toggle Miki's ability to send you error DMs!",
     "miki_command_description_toggleguildnotifications": "Toggle Miki's ability to send non-command messages in this channel!",
-    "miki_command_usage_leaderboards": ">leaderboards\n>leaderboards local\n>leaderboards mekos\n>leaderboards commands\n>leaderboards [mention]",
+    "miki_command_usage_leaderboards": ">leaderboards\n>leaderboards local\n>leaderboards mekos\n>leaderboards commands",
     "miki_command_usage_profile": ">profile",
     "miki_command_usage_toggledm": ">toggledm",
     "miki_command_usage_toggleerrors": ">toggleerrors",
