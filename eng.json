@@ -817,5 +817,11 @@
     "miki_module_customcommands_description": "Make your own command!",
     "miki_module_anime_description": "Find info about anime and manga!",
     "miki_module_admin_description": "Turn your server into a totalitarian state with moderation.",
-    "miki_module_accounts_description": "Anything that relates to your experience, currency, and achievements."
+    "miki_module_accounts_description": "Anything that relates to your experience, currency, and achievements.",
+    "error_entity_not_found": "Could not found this {0}!",
+    "entity_background": "Background",
+    "background_buy": "Buy background",
+    "background_buy_complete": "Background purchased",
+    "action_yes": "yes",
+    "background_buy_confirmation": "This background for your profile will cost {0} mekos. Say {1} to buy."
 }
