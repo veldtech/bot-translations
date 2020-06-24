@@ -634,7 +634,7 @@
     "guildhouse_rank_7": "guildhouse_rank_7",
     "guildhouse_rank_8": "guildhouse_rank_8",
     "guildhouse_rank_9": "guildhouse_rank_9",
-    "miki_command_description_configrole": "miki_command_description_configrole",
+    "miki_command_description_configrole": "Zet rollen op voor je server. Voor meer informatie, lees de wiki!",
     "miki_command_description_cry": "miki_command_description_cry",
     "miki_command_description_iam": "miki_command_description_iam",
     "miki_command_description_iamlist": "miki_command_description_iamlist",
@@ -689,8 +689,8 @@
     "error_bank_account_null": "Gebruiker heeft nog niet gestort bij de gildebank!",
     "error_pasta_null": "Pasta is niet gevonden.",
     "appreciate_title": "Miki waarderen?",
-    "appreciate_patreon": "Stem elke dag op ons op {0} om een ​​extra bonus te krijgen!",
-    "appreciate_vote": "Doneer ons op {0} voor meer meko's!",
+    "appreciate_patreon": "Doneer naar ons op {0} om extra mekos te krijgen!",
+    "appreciate_vote": "Stem elke dag op ons op {0} voor een extra bonus!",
     "daily_claimed": "Je hebt je daily vandaag al geclaimd! Wacht nog een {0} voordat je het opnieuw gebruikt.",
     "daily_streak": "Je hebt een dagelijkse streak van {0} dagen!",
     "daily_streak_title": "Streak!",
@@ -727,5 +727,8 @@
     "miki_command_description_reddit": "Toon reddit berichten per subreddit",
     "miki_command_usage_reddit": ">reddit <subreddit> [list]",
     "noun_subreddit": "subreddit",
-    "action_view_reddit": "op reddit bekijken"
+    "action_view_reddit": "op reddit bekijken",
+    "miki_module_general_help_module_example": "Gebruik {0}help actions om te zien welke actie-gerelateerde mogelijkheden je kunt doen",
+    "miki_module_general_help_tagline": "Miki's huidige modules",
+    "miki_module_general_help_header": "Help"
 }
