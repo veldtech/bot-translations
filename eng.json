@@ -675,7 +675,7 @@
     "miki_module_admin_prune_no_arg": "Clean up your messages in just a second!\n\n`>prune <amount>` - Prunes previous messages by a specific amount.\n`>prune <amount> [mention] ` - Prunes previous messages of a specific user by an amount. \n`>prune <amount> [phrase]` - Prunes previous messages that contain a certain phrase by an amount. The phrase must be in quotes. (Ex. `>prune 5 \"sad\"`)\n`>prune <amount> [mention] [phrase]` - Prunes previous messages of a specific user that contain a certain phrase by an amount.",
     "permission_missing": "I do not have the permission to {0}. Please give me this!",
     "error_invalid_character": "You cannot use '{0}' in this context!",
-    "error_miscript_parse": "An unknown parsing exception occured with message: \"{0}\"",
+    "error_miscript_parse": "An unknown parsing exception occured with message:",
     "error_miscript_execute": "An error occurred while executing the custom command:",
     "user_error_miscript_execute": "The script threw an error while executing the custom command:",
     "user_error_miscript_limit": "The script was aborted because you reached the limit of {0}.",

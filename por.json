@@ -658,7 +658,7 @@
     "miki_module_admin_prune_no_arg": "Limpe suas mensagens em apenas um segundo!\n\n`>prune <quantia>` - Remove mensagens anteriores de uma quantidade específica.\n`>prune <quantia> [menção] ` - Remove mensagens anteriores de um usuário específico por um valor.\n`>prune <quantia> [frase]` - Remove mensagens anteriores que contêm uma determinada frase por um valor. A frase deve estar entre aspas. (Ex. `>prune 5 \"triste\"`)\n`>prune <quantia> [menção] [frase]` - \nRemove mensagens anteriores de um usuário específico que contêm uma determinada frase por um valor.",
     "permission_missing": "Eu não tenho permissão para {0}. Por favor me dê permissões!",
     "error_invalid_character": "Você não pode usar '{0}' neste contexto!",
-    "error_miscript_parse": "Ocorreu uma exceção de análise desconhecida com a mensagem: \"{0}\"",
+    "error_miscript_parse": "Ocorreu uma exceção de análise desconhecida com a mensagem:",
     "ok_command_deleted": "O comando '{0}' foi excluído com sucesso!",
     "miki_command_description_createcommand": "Crie comandos com a linguagem de script da miki!",
     "miki_command_description_removecommand": "Remova seus comandos com script.",
