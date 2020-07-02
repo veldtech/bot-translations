@@ -832,5 +832,6 @@
     "background_buy": "Buy background",
     "background_buy_complete": "Background purchased",
     "action_yes": "yes",
-    "background_buy_confirmation": "This background for your profile will cost {0} mekos. Say {1} to buy."
+    "background_buy_confirmation": "This background for your profile will cost {0} mekos. Say {1} to buy.",
+    "error_duplicate_command": "Command {0} already exists with name."
 }
