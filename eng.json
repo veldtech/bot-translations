@@ -755,7 +755,7 @@
     "noun_subreddit": "subreddit",
     "action_view_reddit": "view on reddit",
     "achievement_unlocked": "Achievement Unlocked!",
-    "achievement_unlocked_text": "{0} has unlocked {1}!",
+    "achievement_unlocked_text": "You have unlocked {0}!",
     "generic_score": "Current Score: {0}",
     "achievement_levelachievements_0": "Novice",
     "achievement_levelachievements_1": "Intermediate",

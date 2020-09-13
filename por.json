@@ -801,7 +801,7 @@
     "achievement_levelachievements_1": "Intermediário(a)",
     "achievement_levelachievements_0": "Notícia",
     "generic_score": "Pontuação atual: {0}",
-    "achievement_unlocked_text": "{0} desbloqueou {1}!",
+    "achievement_unlocked_text": "Você desbloqueou {0}!",
     "achievement_unlocked": "Conquista Desbloqueada!",
     "customcommands_warnings": "avisos",
     "customcommands_line": "Na linha {0}, coluna {1}:",
