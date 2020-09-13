@@ -807,7 +807,7 @@
     "achievement_levelachievements_1": "Intermédiaire",
     "achievement_levelachievements_0": "Novice",
     "generic_score": "Score actuel : {0}",
-    "achievement_unlocked_text": "{0} a déverrouillé {1} !",
+    "achievement_unlocked_text": "Tu a déverrouillé {0} !",
     "achievement_unlocked": "Succès Déverrouillé !",
     "error_local_experience_null": "Aucune expérience locale trouvée pour cet utilisateur!",
     "error_timer_null": "Le timer est introuvable!",
