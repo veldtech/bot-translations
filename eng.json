@@ -1,6 +1,7 @@
 {
   "miki_errors_enabled_message": "Miki has encountered a problem with your request in her code. We will send you a log and instructions through DM.",
   "miki_error_message_generic": "Something went wrong!",
+  "miki_error_message_command_description": "Sorry, this command's description is not available.",
   "miki_join_message": "Hello! I am **Miki**! Use `>help` to check out what I can do! :notes:",
   "miki_global_profile_user_header": "{0}'s global profile",
   "miki_local_profile_user_header": "{0}'s local profile",
